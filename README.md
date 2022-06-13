@@ -1,2 +1,2 @@
 # awesome-fpga-programming
-An awesome list of languages and tools to program FPGAs
+A curated list of awesome languages and tools to program FPGAs
