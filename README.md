@@ -8,9 +8,9 @@ and follows the same taxonomy to cluster state-of-the-art **Hardware Description
 
 Please feel free to contribute and help maintain this list updated.
 
-### Hardware Description Languages (HDLs)
+## Hardware Description Languages (HDLs)
 
-#### Functional-based HDLs
+### Functional-based HDLs
 
 - ***Chisel***
  
