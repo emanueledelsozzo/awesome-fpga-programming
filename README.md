@@ -51,13 +51,13 @@ HDLs embedding the characteristics of the functional languages from which they d
  
     *Year*: 2000
   
-    *Paper*: Yanbing Li and Miriam Leeser. 2000. HML, a Novel Hardware Description Language and Its Translation to VHDL. IEEE Transactions on Very Large Scale Integration (VLSI) Systems 8, 1 (2000), 1–8. https://doi.org/10.1109/92.820756
+    *Paper*: Y. Li and M. Leeser. 2000. HML, a Novel Hardware Description Language and Its Translation to VHDL. IEEE Transactions on Very Large Scale Integration (VLSI) Systems 8, 1 (2000), 1–8. https://doi.org/10.1109/92.820756
  
  - ***SpinalHDL***
  
     *Year*: 2014
  
-    *Paper*: C Papon. 2017. SpinalHDL: An alternative hardware description language. FOSDEM (2017).
+    *Paper*: C. Papon. 2017. SpinalHDL: An alternative hardware description language. FOSDEM (2017). https://doi.org/10.5446/43800
  
     *Repository*: https://github.com/SpinalHDL/SpinalHDL
  
@@ -72,14 +72,14 @@ HDLs embedding the characteristics of the functional languages from which they d
     *Repository*: https://github.com/VeriScala/VeriScala
  
 
-#### Imperative-based HDLs
+### Imperative-based HDLs
 
-#### SystemVerilog Extension HDLs
+### SystemVerilog Extension HDLs
 
 
-## High-Level Synthesis Tools (HLS)
+## High-Level Synthesis (HLS) Tools
 
-### High-Level Synthesis
+### High-Level Synthesis (HLS)
 
 ### Accelerator-Centric Synthesis (ACS)
 
@@ -90,18 +90,15 @@ We cluster DSLs based on their domain of interest: single application domain, ar
 
 ### Application Domain
 
-DSLs concentrating on a given application domain (e.g., image processing, packet processing, etc.).
+DSLs concentrating on a given application domain (e.g., image processing and packet processing).
 
  - ***Spiral***
  
     *Year*: 2012
  
-    *Paper*: Peter Milder, Franz Franchetti, James C Hoe, and Markus Püschel. 2012. Computer generation of hardware for linear digital signal processing transforms. ACM Transactions on Design Automation of Electronic Systems 17, 2 (2012), 1–33.
+    *Paper*: P. Milder, F. Franchetti, J. C. Hoe, and M. Püschel. 2012. Computer generation of hardware for linear digital signal processing transforms. ACM Transactions on Design Automation of Electronic Systems 17, 2 (2012), 1–33. https://doi.org/10.1145/2159542.2159547
 
-    *Paper*: Jianxin Xiong, Jeremy Johnson, Robert Johnson, and David Padua. 2001. SPL: A language and compiler for DSP algorithms. ACM SIGPLAN Notices 36, 5 (2001), 298–308.
-
-    *Paper*: Franz Franchetti, Tze Meng Low, Doru Thom Popovici, Richard M Veras, Daniele G Spampinato, Jeremy R Johnson, Markus Püschel, James C Hoe, and José MF Moura. 2018. SPIRAL: Extreme performance portability. Proc. IEEE 106, 11 (2018), 1935–1968.
-
+    *Paper*: F. Franchetti, T. M. Low, D. T. Popovici, R. M. Veras, D. G. Spampinato, J. R. Johnson, M. Püschel, J. C. Hoe, and J. M. Moura. 2018. SPIRAL: Extreme performance portability. Proc. IEEE 106, 11 (2018), 1935–1968. https://doi.org/10.1109/JPROC.2018.2873289
 
 ### Architectural Domain
 
