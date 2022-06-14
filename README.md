@@ -14,6 +14,8 @@ The HDL taxonomy is based on the characteristics of the programming model employ
 
 ### Functional-based HDLs
 
+HDLs embedding the characteristics of the functional languages from which they derive (e.g., SML, Haskell, and Scala). 
+
 - ***Chisel***
  
   *Year*: 2012
@@ -83,11 +85,12 @@ The HDL taxonomy is based on the characteristics of the programming model employ
 
 
 ## Domain-Specific Languages (DSLs)
+
 We cluster DSLs based on their domain of interest: single application domain, architectural models, intermediate languages and infrastructure for DSLs. 
 
 ### Application Domain
 
-We examines the group of DSLs that concentrate on a given application domain (e.g., image processing, packet processing, etc.)
+DSLs concentrating on a given application domain (e.g., image processing, packet processing, etc.).
 
  - ***Spiral***
  
