@@ -10,6 +10,8 @@ Please feel free to contribute and help maintain this list updated.
 
 ## Hardware Description Languages (HDLs)
 
+The HDL taxonomy is based on the characteristics of the programming model employed in the embedded languages exploited as input.
+
 ### Functional-based HDLs
 
 - ***Chisel***
@@ -71,3 +73,33 @@ Please feel free to contribute and help maintain this list updated.
 #### Imperative-based HDLs
 
 #### SystemVerilog Extension HDLs
+
+
+## High-Level Synthesis Tools (HLS)
+
+### High-Level Synthesis
+
+### Accelerator-Centric Synthesis (ACS)
+
+
+## Domain-Specific Languages (DSLs)
+We cluster DSLs based on their domain of interest: single application domain, architectural models, intermediate languages and infrastructure for DSLs. 
+
+### Application Domain
+
+We examines the group of DSLs that concentrate on a given application domain (e.g., image processing, packet processing, etc.)
+
+ - ***Spiral***
+ 
+    *Year*: 2012
+ 
+    *Paper*: Peter Milder, Franz Franchetti, James C Hoe, and Markus Püschel. 2012. Computer generation of hardware for linear digital signal processing transforms. ACM Transactions on Design Automation of Electronic Systems 17, 2 (2012), 1–33.
+
+    *Paper*: Jianxin Xiong, Jeremy Johnson, Robert Johnson, and David Padua. 2001. SPL: A language and compiler for DSP algorithms. ACM SIGPLAN Notices 36, 5 (2001), 298–308.
+
+    *Paper*: Franz Franchetti, Tze Meng Low, Doru Thom Popovici, Richard M Veras, Daniele G Spampinato, Jeremy R Johnson, Markus Püschel, James C Hoe, and José MF Moura. 2018. SPIRAL: Extreme performance portability. Proc. IEEE 106, 11 (2018), 1935–1968.
+
+
+### Architectural Domain
+
+### Intermediate Infrastructure
