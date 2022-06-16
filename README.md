@@ -76,6 +76,13 @@ HDLs embedding the characteristics of the functional languages from which they d
 
 HDLs embedding the characteristics of the imperative languages from which they derive (e.g., Java, Python, and C++).
 
+- ***ArchHDL***
+ 
+  *Year*: 2013
+  
+  *Paper*: S. Sato and K. Kise. 2013. ArchHDL: a new hardware description language for high-speed architectural evaluation. In 2013 IEEE 7th International Symposium on Embedded Multicore Socs. IEEE, 107–112. https://doi.org/10.1109/MCSoC.2013.38
+
+
 - ***JHDL***
  
   *Year*: 1998
@@ -84,6 +91,15 @@ HDLs embedding the characteristics of the imperative languages from which they d
 
   *Website*: https://web.archive.org/web/20061205060548/http://jhdl.org/
   
+
+- ***MaxJ***
+ 
+  *Year*: 2009
+  
+  *Paper*: O. Lindtjorn, R. G. Clapp, O. Pell, O. Mencer, and M. J. Flynn. 2010. Surviving the end of scaling of traditional microprocessors in HPC. IEEE Hot Chips 22 (2010), 22–24.
+  
+  *Website*: https://www.maxeler.com/products/software/maxcompiler/
+
 
 - ***MyHDL***
  
@@ -101,22 +117,6 @@ HDLs embedding the characteristics of the imperative languages from which they d
   *Paper*: A. Mashtizadeh. 2007. PHDL: A Python Hardware Design Framework. https://dspace.mit.edu/handle/1721.1/41543.
   
   *Repository*: https://github.com/wnew/phdl
-  
-
-- ***MaxJ***
- 
-  *Year*: 2009
-  
-  *Paper*: O. Lindtjorn, R. G. Clapp, O. Pell, O. Mencer, and M. J. Flynn. 2010. Surviving the end of scaling of traditional microprocessors in HPC. IEEE Hot Chips 22 (2010), 22–24.
-  
-  *Website*: https://www.maxeler.com/products/software/maxcompiler/
-
-
-- ***ArchHDL***
- 
-  *Year*: 2013
-  
-  *Paper*: S. Sato and K. Kise. 2013. ArchHDL: a new hardware description language for high-speed architectural evaluation. In 2013 IEEE 7th International Symposium on Embedded Multicore Socs. IEEE, 107–112. https://doi.org/10.1109/MCSoC.2013.38
 
 
 - ***PyMTL***
@@ -132,15 +132,6 @@ HDLs embedding the characteristics of the imperative languages from which they d
   *Website*: https://pymtl.github.io
 
 
-- ***PyVerilog***
- 
-  *Year*: 2015
-  
-  *Paper*: S. Takamaeda-Yamazaki. 2015. PyVerilog: A Python-Based hardware design processing toolkit for Verilog HDL. In Applied Reconfigurable Computing. Springer, 451–460. https://doi.org/10.1007/978-3-319-16214-0_42
-
-  *Repository*: https://github.com/PyHDI/Pyverilog
-  
-
 - ***PyRTL***
  
   *Year*: 2017
@@ -150,6 +141,15 @@ HDLs embedding the characteristics of the imperative languages from which they d
   *Repository*: https://github.com/UCSBarchlab/PyRTL
   
   *Website*: https://ucsbarchlab.github.io/PyRTL/
+
+
+- ***PyVerilog***
+ 
+  *Year*: 2015
+  
+  *Paper*: S. Takamaeda-Yamazaki. 2015. PyVerilog: A Python-Based hardware design processing toolkit for Verilog HDL. In Applied Reconfigurable Computing. Springer, 451–460. https://doi.org/10.1007/978-3-319-16214-0_42
+
+  *Repository*: https://github.com/PyHDI/Pyverilog
   
 
 ### SystemVerilog Extension HDLs
