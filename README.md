@@ -10,7 +10,7 @@ Please feel free to contribute and help maintain this list updated.
 
 ## Hardware Description Languages (HDLs)
 
-The HDL taxonomy is based on the characteristics of the programming model employed in the embedded languages exploited as input.
+The HDL taxonomy is based on the characteristics of the programming model employed in the embedded languages exploited as input. Here, we report high-level HDLs that, eventually, translates into standard HDLs, namely, VHDL/(System)Verilog.
 
 ### Functional-based HDLs
 
