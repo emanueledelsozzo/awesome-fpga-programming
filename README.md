@@ -527,4 +527,34 @@ DSLs concentrating on a given application domain (e.g., image processing and pac
 
 ### Architectural Domain
 
+DSLs concentrating on a given architectural model (e.g., spatial architecture and systolic array).
+
+- ***Spatial***
+ 
+    *Year*: 2018
+ 
+    *Paper*: D. Koeplinger, M. Feldman, R. Prabhakar, Y. Zhang, S. Hadjis, R. Fiszel, T. Zhao, L. Nardi, A. Pedram, C. Kozyrakis, , and K. Olukotun. 2018. Spatial: A language and compiler for application accelerators. In Proceedings of the 39th ACM SIGPLAN Conference on Programming Language Design and Implementation. 296–311. https://doi.org/10.1145/3192366.3192379
+
+    *Repository*: https://github.com/stanford-ppl/spatial
+
+    *Website*: https://spatial-lang.org
+
+
+- ***SPGen***
+ 
+    *Year*: 2020
+ 
+    *Paper*: Y. Watanabe, J. Lee, K. Sano, T. Boku, and M. Sato. 2020. Design and preliminary evaluation of openacc compiler for fpga with opencl and stream processing dsl. In Proceedings of the International Conference on High Performance Computing in Asia-Pacific Region Workshops. 10–16. https://doi.org/10.1145/3373271.3373274
+
+
+- ***SuSy***
+ 
+    *Year*: 2020
+ 
+    *Paper*: Y. Lai, H. Rong, S. Zheng, W. Zhang, X. Cui, Y. Jia, J. Wang, B. Sullivan, Z. Zhang, Y. Liang, Y. Zhang, J. Cong, N. George, J. Alvarez, C. Hughes, and P. Dubey 2020. SuSy: a programming model for productive construction of high-performance systolic arrays on FPGAs. In 2020 IEEE/ACM International Conference On Computer Aided Design (ICCAD). IEEE, 1–9. https://doi.org/10.1145/3400302.3415644
+
+    *Repository*: https://github.com/IntelLabs/t2sp
+
+
+
 ### Intermediate Infrastructure
