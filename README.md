@@ -83,7 +83,7 @@ HDLs embedding the characteristics of the imperative languages from which they d
   *Paper*: S. Sato and K. Kise. 2013. ArchHDL: a new hardware description language for high-speed architectural evaluation. In 2013 IEEE 7th International Symposium on Embedded Multicore Socs. IEEE, 107–112. https://doi.org/10.1109/MCSoC.2013.38
 
 
-- ***JHDL***
+- ***Just Another HDL (JHDL)***
  
   *Year*: 1998
   
@@ -110,7 +110,7 @@ HDLs embedding the characteristics of the imperative languages from which they d
   *Code*: https://sourceforge.net/projects/myhdl/
   
 
-- ***PHDL***
+- ***Python HDL (PHDL)***
  
   *Year*: 2007
   
