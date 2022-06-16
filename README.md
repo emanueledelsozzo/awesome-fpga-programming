@@ -186,11 +186,217 @@ HDLs extending SystemVerilog.
  
     *Website*: https://www.redwoodeda.com/tl-verilog
 
+
+<br /> 
+
+
 ## High-Level Synthesis (HLS) Tools
+
+The HLS taxonomy is based on the target application and synthesis flow.
 
 ### High-Level Synthesis (HLS)
 
+These tools generate RTL for generic IPs described using high-level languages (e.g., C and C++). Here we report only “pure” HLS tools, i.e., tools that do perform the HLS process without delegating it to third-party software. 
+
+- ***Bambu***
+ 
+    *Year*: 2012
+ 
+    *Paper*: C. Pilato and F. Ferrandi. 2013. Bambu: A modular framework for the high level synthesis of memory-intensive applications. In Field Programmable Logic and Applications (FPL), 23rd International Conference on. IEEE. https://doi.org/10.1109/FPL.2013.6645550
+
+    *Repository*: https://github.com/ferrandi/PandA-bambu
+ 
+    *Website*: https://panda.dei.polimi.it/?page_id=31
+
+
+- ***Catapult-HLS***
+ 
+    *Year*: 2004
+ 
+    *Paper*: T. Bollaert. 2008. Catapult synthesis: a practical introduction to interactive C synthesis. In High-Level Synthesis. Springer, 29–52. https://doi.org/10.1007/978-1-4020-8588-8_3
+
+    *Website*: https://www.mentor.com/hls-lp/catapult-high-level-synthesis/
+
+
+- ***CyberWorkBench***
+ 
+    *Year*: 2011
+ 
+    *Website*: https://www.nec.com/en/global/prod/cwb/index.html
+ 
+
+ - ***Dynamatic***
+ 
+    *Year*: 2017
+ 
+    *Paper*: L. Josipović, R. Ghosal, and P. Ienne. 2018. Dynamically Scheduled High-level Synthesis. In Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA '18). Association for Computing Machinery, New York, NY, USA, 127–136. https://doi.org/10.1145/3174243.3174264
+
+    *Paper*: L. Josipović, A. Guerrieri, and P. Ienne. 2020. Invited Tutorial: Dynamatic: From C/C++ to Dynamically Scheduled Circuits. In The 2020 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays. 1–10. https://doi.org/10.1145/3373087.3375391
+
+    *Paper*: L. Josipović, S. Sheikhha, A. Guerrieri, P. Ienne, and J. Cortadella. 2021. Buffer Placement and Sizing for High-Performance Dataflow Circuits. ACM Trans. Reconfigurable Technol. Syst. 15, 1, Article 4 (March 2022), 32 pages. https://doi.org/10.1145/3477053
+
+    *Repository*: https://github.com/lana555/dynamatic
+ 
+    *Website*: https://dynamatic.epfl.ch
+
+
+- ***GAUT***
+ 
+    *Year*: 2009
+ 
+    *Paper*: P. Coussy, C. Chavet, P. Bomel, D. Heller, E. Senn, and E. Martin. 2008. GAUT: A high-level synthesis tool for DSP applications. In High-Level Synthesis. Springer, 147–169. https://doi.org/10.1007/978-1-4020-8588-8_9
+ 
+    *Website*: http://hls-labsticc.univ-ubs.fr/
+ 
+
+- ***Hastlayer***
+ 
+    *Year*: 2015
+ 
+    *Repository*: https://github.com/Lombiq/Hastlayer-SDK
+ 
+    *Website*: https://hastlayer.com
+ 
+
+- ***HDL Coder***
+ 
+    *Year*: 2003
+ 
+    *Documentation*: https://www.mathworks.com/help/pdf_doc/hdlcoder/hdlcoder_ug.pdf
+ 
+    *Website*: https://www.mathworks.com/products/hdl-coder.html
+
+
+- ***Intel HLS Compiler***
+ 
+    *Year*: 2017
+ 
+    *Documentation*: https://www.intel.com/content/www/us/en/docs/programmable/683349/22-1/pro-edition-reference-manual.html
+
+    *Website*: https://www.intel.it/content/www/it/it/software/programmable/quartus-prime/hls-compiler.html
+
+
+- ***LegUp***
+ 
+    *Year*: 2009
+ 
+    *Paper*: A. Canis, J. Choi, M. Aldham, V. Zhang, A. Kammoona, J. H. Anderson, S. Brown, and T. Czajkowski. 2011. LegUp: high-level synthesis for FPGA-based processor/accelerator systems. In Proceedings of the 19th ACM/SIGDA international symposium on Field programmable gate arrays. ACM, Association for Computing Machinery, New York, NY, USA, 33–36. https://doi.org/10.1145/1950413.1950423
+
+    *Paper*: A. Canis, J. Choi, M. Aldham, V. Zhang, A. Kammoona, T. Czajkowski, S. D. Brown, and J. H. Anderson. 2013. LegUp: An open-source high-level synthesis tool for FPGA-based processor/accelerator systems. ACM Trans. Embed. Comput. Syst. 13, 2, Article 24 (September 2013), 27 pages. https://doi.org/10.1145/2514740
+
+    *Repository*: https://github.com/wincle626/HLS_Legup
+ 
+    *Website*: https://www.legupcomputing.com/
+
+
+- ***ROCCC***
+ 
+    *Year*: 2009
+ 
+    *Paper*: J. Villarreal, A. Park, W. Najjar, and R. Halstead. 2010. Designing modular hardware accelerators in C with ROCCC 2.0. In Field-Programmable Custom Computing Machines (FCCM), 2010 18th IEEE Annual International Symposium on. IEEE, 127–134. https://doi.org/10.1109/FCCM.2010.28
+
+    *Repository*: https://github.com/nxt4hll/roccc-2.0
+ 
+    *Website*: http://roccc.cs.ucr.edu/
+
+
+- ***Stratus HLS***
+ 
+    *Year*: 2015
+ 
+    *Paper*: D. Pursleyand, T. Yeh. 2017. High-level low-power system design optimization. In VLSI Design, Automation and Test (VLSI-DAT), 2017 International Symposium on. IEEE, 1–4. https://doi.org/10.1109/VLSI-DAT.2017.7939656
+ 
+    *Website*: https://www.cadence.com/ko_KR/home/tools/digital-design-and-signoff/synthesis/stratus-high-level-synthesis.html
+ 
+
+- ***Vitis HLS***
+ 
+    *Year*: 2020
+ 
+    *Documentation*: https://docs.xilinx.com/r/en-US/ug1399-vitis-hls/Getting-Started-with-Vitis-HLS
+
+
+- ***Vivado HLS***
+ 
+    *Year*: 2013
+ 
+    *Documentation*: https://www.xilinx.com/support/documentation-navigation/design-hubs/dh0012-vivado-high-level-synthesis-hub.html
+
+
+- ***XLS***
+ 
+    *Year*: 2020
+ 
+    *Repository*: https://github.com/google/xls/
+ 
+    *Website*: https://google.github.io/xls/
+
+
 ### Accelerator-Centric Synthesis (ACS)
+
+These tools focus on hardware acceleration of algorithms and automatize the whole design flow, from the HLS process to the bitstream generation.
+
+- ***Altera OpenCL SDK (AOCL)***
+ 
+    *Year*: 2012
+ 
+    *Paper*: T. S. Czajkowski, U. Aydonat, D. Denisenko, J. Freeman, M. Kinsner, D. Neto, J. Wong, P. Yiannacouras, and D. P. Singh. 2012. From OpenCL to high-performance hardware on FPGAs. In 22nd international conference on field programmable logic and applications (FPL). IEEE, 531–534. https://doi.org/10.1109/FPL.2012.6339272
+
+    *Documentation*: https://www.intel.com/content/dam/support/jp/ja/programmable/support-resources/bulk-container/pdfs/literature/hb/opencl-sdk/aocl-getting-started.pdf
+
+
+- ***Intel oneAPI***
+ 
+    *Year*: 2019
+ 
+    *Documentation*: https://www.intel.com/content/www/us/en/developer/tools/oneapi/fpga-documentation.html?s=Newest
+ 
+    *Website*: https://www.intel.com/content/www/us/en/developer/tools/oneapi/fpga.html
+
+
+- ***Intel OpenCL SDK***
+ 
+    *Year*: 2015
+ 
+    *Documentation*: https://www.intel.com/content/www/us/en/support/programmable/support-resources/design-software/opencl-support.html?s=Newest
+ 
+    *Website*: https://www.intel.com/content/www/us/en/software/programmable/sdk-for-opencl/overview.html
+
+
+- ***SDAccel***
+ 
+    *Year*: 2014
+ 
+    *Documentation*: https://www.xilinx.com/support/documentation-navigation/design-hubs/dh0058-sdaccel-hub.html
+ 
+    *Website*: https://www.xilinx.com/products/design-tools/software-zone/sdaccel.html
+
+
+- ***SDSoC***
+ 
+    *Year*: 2015
+ 
+    *Documentation*: https://www.xilinx.com/support/documents/sw_manuals/xilinx2019_1/ug1027-sdsoc-user-guide.pdf
+ 
+    *Website*: https://www.xilinx.com/products/design-tools/software-zone/sdsoc.html
+
+
+- ***TAPAS***
+ 
+    *Year*: 2018
+ 
+    *Paper*: S. Margerm, A. Sharifian, A. Guha, A. Shriraman, and G. Pokam. 2018. TAPAS: Generating parallel accelerators from parallel programs. In 2018 51st Annual IEEE/ACM International Symposium on Microarchitecture (MICRO). IEEE, 245–257. https://doi.org/10.1109/MICRO.2018.00028
+
+    *Repository*: https://github.com/sfu-arch/tapas
+ 
+
+- ***Xilinx Vitis***
+ 
+    *Year*: 2019
+ 
+    *Documentation*: https://docs.xilinx.com/v/u/en-US/ug1416-vitis-documentation
+
+    *Website*: https://www.xilinx.com/products/design-tools/vitis.html
 
 
 ## Domain-Specific Languages (DSLs)
