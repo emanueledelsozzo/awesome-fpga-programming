@@ -410,13 +410,120 @@ We cluster DSLs based on their domain of interest: single application domain, ar
 
 DSLs concentrating on a given application domain (e.g., image processing and packet processing).
 
- - ***Spiral***
+- ***Darkroom***
+ 
+    *Year*: 2014
+ 
+    *Paper*: J. Hegarty, J. Brunhaver, Z. De Vito, J. Ragan-Kelley, N. Cohen, S. Bell, A. Vasilyev, M. Horowitz, and P. Hanrahan. 2014. Darkroom: compiling high-level image processing code into hardware pipelines. ACM Trans. Graph. 33, 4 (2014), 144–1. https://doi.org/10.1145/2601097.2601174
+
+    *Repository*: https://github.com/jameshegarty/darkroom
+
+    *Website*: http://darkroom-lang.org
+
+
+- ***ExaSlang 4***
+ 
+    *Year*: 2014
+ 
+    *Paper*: C. Schmitt, M. Schmid, F. Hannig, J. Teich, S. Kuckuk, and H. Köstler. 2015. Generation of multigrid-based numerical solvers for FPGA accelerators. In Proceedings of the 2nd International Workshop on High-Performance Stencil Computations (HiStencils). 9–15. http://dx.doi.org/10.13140/2.1.1680.9760
+
+    *Repository*: https://github.com/lssfau/ExaStencils
+
+    *Website*: https://www.exastencils.fau.de
+
+
+- ***Halide-HLS***
+ 
+    *Year*: 2017
+ 
+    *Paper*: J. Pu, S. Bell, X. Yang, J. Setter, S. Richardson, J. Ragan-Kelley, and M. Horowitz. 2017. Programming Heterogeneous Systems from an Image Processing DSL. ACM Trans. Archit. Code Optim. 14, 3, Article 26 (Aug. 2017), 25 pages. https://doi.org/10.1145/3107953
+
+    *Repository*: https://github.com/jingpu/Halide-HLS
+
+
+- ***HeteroHalide***
+ 
+    *Year*: 2020
+ 
+    *Paper*: J. Li, Y. Chi, and J. Cong. 2020. HeteroHalide: From image processing DSL to efficient FPGA acceleration. In Proceedings of the 2020 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays. 51–57. https://doi.org/10.1145/3373087.3375320
+
+    *Repository*: https://github.com/UCLA-VAST/heterohalide
+
+
+- ***Hipacc***
+ 
+    *Year*: 2014
+ 
+    *Paper*: O. Reiche, M. Schmid, F. Hannig, R. Membarth, and J. Teich. 2014. Code generation from a domain-specific language for C-based HLS of hardware accelerators. In 2014 international conference on hardware/software codesign and system synthesis (CODES+ ISSS). IEEE, 1–10. https://doi.org/10.1145/2656075.2656081
+
+    *Paper*: R. Membarth, O. Reiche, F. Hannig, J. Teich, M. Körner, and W. Eckert. 2015. Hipacc: A domain-specific language and compiler for image processing. IEEE Transactions on Parallel and Distributed Systems 27, 1 (2015), 210–224. https://doi.org/10.1109/TPDS.2015.2394802
+
+    *Paper*: O. Reiche, M. A. Özkan, R. Membarth, J. Teich, and F. Hannig. 2017. Generating FPGA-based image processing accelerators with Hipacc. In Proceedings of the 36th International Conference on Computer-Aided Design (ICCAD '17). IEEE Press, 1026–1033. https://doi.org/10.1109/ICCAD.2017.8203894
+
+    *Repository*: https://github.com/hipacc/hipacc-fpga
+
+    *Website*: https://hipacc-lang.org/install.html
+
+
+- ***P4-to-VHDL***
+ 
+    *Year*: 2014
+ 
+    *Paper*: P. Benáček, V. Pu, and H. Kubátová. 2016. P4-to-VHDL: Automatic generation of 100 gbps packet parsers. In 2016 IEEE 24th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM). IEEE. https://doi.org/10.1109/FCCM.2016.46
+
+    *Paper*: J. Cabal, P. Benáček, L. Kekely, M. Kekely, V. Puš, and J. Kořenek. 2018. Configurable FPGA packet parser for terabit networks with guaranteed wire-speed throughput. In Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays. 249–258. https://doi.org/10.1145/3174243.3174250
+
+
+- ***P4FPGA***
+ 
+    *Year*: 2017
+ 
+    *Paper*: H. Wang, R. Soulé, H. T. Dang, K. S. Lee, V. Shrivastav, N. Foster, and H. Weatherspoon. 2017. P4fpga: A rapid prototyping framework for p4. In Proceedings of the Symposium on SDN Research. 122–135. https://doi.org/10.1145/3050220.3050234
+
+    *Repository*: https://github.com/p4fpga/p4fpga
+
+    *Website*: http://p4fpga.github.io
+
+
+- ***P4HLS***
+ 
+    *Year*: 2018
+ 
+    *Paper*: J. S. da Silva, F. Boyer, and J. M. P. Langlois. 2018. P4-compatible high-level synthesis of low latency 100 Gb/s streaming packet parsers in FPGAs. In Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays. 147–152. https://doi.org/10.1145/3174243.3174270
+
+    *Repository*: https://github.com/engjefersonsantiago/P4HLS
+
+
+- ***Rigel***
+ 
+    *Year*: 2016
+ 
+    *Paper*: J. Hegarty, R. Daly, Z. DeVito, J. Ragan-Kelley, M. Horowitz, and P. Hanrahan. 2016. Rigel: Flexible Multi-Rate Image Processing Hardware. ACM Trans. Graph. 35, 4, Article 85 (July 2016), 11 pages. https://doi.org/10.1145/2897824.2925892
+
+    *Repository*: https://github.com/jameshegarty/rigel
+
+
+- ***RIPL***
+ 
+    *Year*: 2016
+ 
+    *Paper*: R. Stewart, K. Duncan, G. Michaelson, P. Garcia, D. Bhowmik, and A. M. Wallace. 2018. RIPL: A Parallel Image Processing Language for FPGAs. ACM Transactions on Reconfigurable Technology and Systems 11, 1 (2018), 7:1–7:24. https://doi.org/10.1145/3180481
+
+    *Repository*: https://github.com/robstewart57/ripl
+
+    *Website*: https://robstewart57.github.io/ripl/
+
+
+- ***Spiral***
  
     *Year*: 2012
  
     *Paper*: P. Milder, F. Franchetti, J. C. Hoe, and M. Püschel. 2012. Computer generation of hardware for linear digital signal processing transforms. ACM Transactions on Design Automation of Electronic Systems 17, 2 (2012), 1–33. https://doi.org/10.1145/2159542.2159547
 
-    *Paper*: F. Franchetti, T. M. Low, D. T. Popovici, R. M. Veras, D. G. Spampinato, J. R. Johnson, M. Püschel, J. C. Hoe, and J. M. Moura. 2018. SPIRAL: Extreme performance portability. Proc. IEEE 106, 11 (2018), 1935–1968. https://doi.org/10.1109/JPROC.2018.2873289
+    *Paper*: F. Franchetti, T. M. Low, D. T. Popovici, R. M. Veras, D. G. Spampinato, J. R. Johnson, M. Püschel, J. C. Hoe, and J. M. F. Moura. 2018. SPIRAL: Extreme performance portability. Proc. IEEE 106, 11 (2018), 1935–1968. https://doi.org/10.1109/JPROC.2018.2873289
+
+    *Website*: http://spiral.net/index.html
+    
 
 ### Architectural Domain
 
