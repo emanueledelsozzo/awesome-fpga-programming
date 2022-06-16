@@ -558,3 +558,77 @@ DSLs concentrating on a given architectural model (e.g., spatial architecture an
 
 
 ### Intermediate Infrastructure
+
+Solutions proposing an intermediate layer lying between the DSL and the RTL/HLS code.
+
+- ***AnyHLS***
+ 
+    *Year*: 2020
+ 
+    *Paper*: M. A. Özkan, A. Pérard-Gayot, R. Membarth, P. Slusallek, R. Leißa, S. Hack, J. Teich, and F. Hannig. 2020. AnyHLS: High-Level Synthesis With Partial Evaluation. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 39, 11 (2020), 3202–3214. https://doi.org/10.1109/TCAD.2020.3012172
+
+    *Repository*: https://github.com/AnyDSL/anyhls
+
+    *Website*: https://anydsl.github.io
+
+
+- ***Calyx***
+ 
+    *Year*: 2021
+ 
+    *Paper*: R. Nigam, S. Thomas, Z. Li, and A. Sampson. 2021. A compiler infrastructure for accelerator generators. In Proceedings of the 26th ACM International Conference on Architectural Support for Programming Languages and Operating Systems. 804–817. https://doi.org/10.1145/3445814.3446712
+
+    *Repository*: https://github.com/cucapra/calyx
+
+    *Website*: https://calyxir.org
+
+
+- ***Delite Hardware Definition Language (DHDL)***
+ 
+    *Year*: 2016
+ 
+    *Paper*: D. Koeplinger, R. Prabhakar, Y. Zhang, C. Delimitrou, C. Kozyrakis, and K. Olukotun. 2016. Automatic Generation of Efficient Accelerators for Reconfigurable Hardware. In 2016 ACM/IEEE 43rd Annual International Symposium on Computer Architecture (ISCA). 115–127. https://doi.org/10.1109/ISCA.2016.20
+
+    *Paper*: R. Prabhakar, D. Koeplinger, K. J. Brown, H. Lee, C. De Sa, C. Kozyrakis, and K. Olukotun. 2016. Generating configurable hardware from parallel patterns. Acm Sigplan Notices 51, 4 (2016). https://doi.org/10.1145/2872362.2872415
+
+    *Repository*: https://bitbucket.org/raghup17/dhdl/src/master/
+
+
+- ***FROST***
+ 
+    *Year*: 2017
+ 
+    *Paper*: E. Del Sozzo, R. Baghdadi, S. Amarasinghe, and M. D. Santambrogio. 2017. A Common Backend for Hardware Acceleration on FPGA. In Computer Design (ICCD), 2017 IEEE International Conference on. IEEE, 427–430. https://doi.org/10.1109/ICCD.2017.75
+
+    *Paper*: E. Del Sozzo, R. Baghdadi, S. Amarasinghe, and M. D. Santambrogio. 2018. A unified backend for targeting fpgas from dsls. In 2018 IEEE 29th International Conference on Application-specific Systems, Architectures and Processors (ASAP). IEEE, 1–8. https://doi.org/10.1109/ASAP.2018.8445108
+
+
+- ***HeteroCL***
+ 
+    *Year*: 2019
+ 
+    *Paper*: Y. Lai, Y. Chi, Y. Hu, J. Wang, C. H. Yu, Y. Zhou, J. Cong, and Z. Zhang. 2019. HeteroCL: A multi-paradigm programming infrastructure for software-defined reconfigurable computing. In Proceedings of the 2019 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays. 242–251. https://doi.org/10.1145/3289602.3293910
+
+    *Repository*: https://github.com/cornell-zhang/heterocl
+
+    *Website*: https://heterocl.csl.cornell.edu
+
+
+- ***Infrastructure for Delite-based DSLs***
+ 
+    *Year*: 2014
+ 
+    *Paper*: N. George, H. Lee, D. Novo, T. Rompf, K. J. Brown, A. K. Sujeeth, M. Odersky, K. Olukotun, and P. Ienne. 2014. Hardware system synthesis from domain-specific languages. In 2014 24th International Conference on Field Programmable Logic and Applications (FPL). IEEE, 1–8. https://doi.org/10.1109/FPL.2014.6927454
+
+
+- ***LIFT***
+ 
+    *Year*: 2019
+ 
+    *Paper*: M. Kristien, B. Bodin, M. Steuwer, and C. Dubach. 2019. High-level synthesis of functional patterns with Lift. In Proceedings of the 6th ACM SIGPLAN International Workshop on Libraries, Languages and Compilers for Array Programming. 35–45. https://doi.org/10.1145/3315454.3329957
+
+    *Repository*: https://github.com/lift-project/lift
+
+    *Website*: http://www.lift-project.org
+
+
