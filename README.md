@@ -399,6 +399,9 @@ These tools focus on hardware acceleration of algorithms and automatize the whol
     *Website*: https://www.xilinx.com/products/design-tools/vitis.html
 
 
+<br />
+
+
 ## Domain-Specific Languages (DSLs)
 
 We cluster DSLs based on their domain of interest: single application domain, architectural models, intermediate languages and infrastructure for DSLs. 
