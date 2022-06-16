@@ -74,6 +74,84 @@ HDLs embedding the characteristics of the functional languages from which they d
 
 ### Imperative-based HDLs
 
+HDLs embedding the characteristics of the imperative languages from which they derive (e.g., Java, Python, and C++).
+
+- ***JHDL***
+ 
+  *Year*: 1998
+  
+  *Paper*: P. Bellows and B. Hutchings. 1998. JHDL - An HDL for Reconfigurable Systems. In IEEE Symposium on FPGAs for Custom Computing Machines. IEEE. https://doi.org/10.1109/FPGA.1998.707895
+
+  *Website*: https://web.archive.org/web/20061205060548/http://jhdl.org/
+  
+
+- ***MyHDL***
+ 
+  *Year*: 2004
+  
+  *Paper*: J. Decaluwe. 2004. MyHDL: a Python-Based Hardware Description Language. Linux journal 127 (2004), 84–87. https://www.linuxjournal.com/article/7542
+  
+  *Code*: https://sourceforge.net/projects/myhdl/
+  
+
+- ***PHDL***
+ 
+  *Year*: 2007
+  
+  *Paper*: A. Mashtizadeh. 2007. PHDL: A Python Hardware Design Framework. https://dspace.mit.edu/handle/1721.1/41543.
+  
+  *Repository*: https://github.com/wnew/phdl
+  
+
+- ***MaxJ***
+ 
+  *Year*: 2009
+  
+  *Paper*: O. Lindtjorn, R. G. Clapp, O. Pell, O. Mencer, and M. J. Flynn. 2010. Surviving the end of scaling of traditional microprocessors in HPC. IEEE Hot Chips 22 (2010), 22–24.
+  
+  *Website*: https://www.maxeler.com/products/software/maxcompiler/
+
+
+- ***ArchHDL***
+ 
+  *Year*: 2013
+  
+  *Paper*: S. Sato and K. Kise. 2013. ArchHDL: a new hardware description language for high-speed architectural evaluation. In 2013 IEEE 7th International Symposium on Embedded Multicore Socs. IEEE, 107–112. https://doi.org/10.1109/MCSoC.2013.38
+
+
+- ***PyMTL***
+ 
+  *Year*: 2014
+  
+  *Paper*: D. Lockhart, G. Zibrat, and C. Batten. 2014. PyMTL: A Unified Framework for Vertically Integrated Computer Architecture Research. In 47th Annual IEEE/ACM International Symposium on Microarchitecture. IEEE. https://doi.org/10.1109/MICRO.2014.50
+
+  *Paper*: S. Jiang, C. Torng. and C. Batten. 2018. An Open-Source Python-Based Hardware Generation, Simulation, and Verification Framework. In Workshop on Open-Source EDA Technology (WOSET’18). 1–5. https://www.csl.cornell.edu/~cbatten/pdfs/jiang-pymtl-woset2018.pdf
+
+  *Repository*: https://github.com/pymtl/pymtl3
+  
+  *Website*: https://pymtl.github.io
+
+
+- ***PyVerilog***
+ 
+  *Year*: 2015
+  
+  *Paper*: S. Takamaeda-Yamazaki. 2015. PyVerilog: A Python-Based hardware design processing toolkit for Verilog HDL. In Applied Reconfigurable Computing. Springer, 451–460. https://doi.org/10.1007/978-3-319-16214-0_42
+
+  *Repository*: https://github.com/PyHDI/Pyverilog
+  
+
+- ***PyRTL***
+ 
+  *Year*: 2017
+  
+  *Paper*: J. Clow, G. Tzimpragos, D. Dangwal, S. Guo, J. McMahan, and T. Sherwood. 2017. A pythonic approach for rapid hardware prototyping and instrumentation. In 2017 27th International Conference on Field Programmable Logic and Applications (FPL). IEEE, 1–7. https://doi.org/10.23919/FPL.2017.8056860
+  
+  *Repository*: https://github.com/UCSBarchlab/PyRTL
+  
+  *Website*: https://ucsbarchlab.github.io/PyRTL/
+  
+
 ### SystemVerilog Extension HDLs
 
 
