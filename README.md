@@ -154,6 +154,37 @@ HDLs embedding the characteristics of the imperative languages from which they d
 
 ### SystemVerilog Extension HDLs
 
+HDLs extending SystemVerilog.
+
+- ***BlueSpec SystemVerilog (BSV)***
+ 
+    *Year*: 2004
+ 
+    *Paper*: R. Nikhil. 2004. Bluespec System Verilog: efficient, correct RTL from high level specifications. In Proceedings. Second ACM and IEEE International Conference on Formal Methods and Models for Co-Design, 2004. MEMOCODE’04. https://doi.org/10.1109/MEMCOD.2004.1459818
+
+    *Paper*: T. Bourgeat, C. Pit-Claudel, A. Chlipala, and Arvind. 2020. The essence of Bluespec: a core language for rule-based hardware design. In Proceedings of the 41st ACM SIGPLAN Conference on Programming Language Design and Implementation. 243–257. https://doi.org/10.1145/3385412.3385965
+
+    *Repository*: https://github.com/B-Lang-org/bsc
+ 
+    *Website*: http://wiki.bluespec.com
+
+
+- ***Genesis2***
+ 
+    *Year*: 2012
+ 
+    *Paper*: O. Shacham, S. Galal, S. Sankaranarayanan, M. Wachs, J. Brunhaver, A. Vassiliev, M. Horowitz, A. Danowitz, W. Qadeer, and S. Richardson. 2012. Avoiding Game Over: Bringing Design to the Next Level. In DAC Design Automation Conference. IEEE, 623–629. https://doi.org/10.1145/2228360.2228472
+ 
+
+- ***Transaction-Level Verilog (TL-Verilog)***
+ 
+    *Year*: 2017
+ 
+    *Paper*: S. F. Hoover. 2017. Timing-abstract circuit design in transaction-level Verilog. In 2017 IEEE International Conference on Computer Design (ICCD). IEEE, 525–532. https://doi.org/10.1109/ICCD.2017.91
+ 
+    *Repository*: https://github.com/TL-X-org
+ 
+    *Website*: https://www.redwoodeda.com/tl-verilog
 
 ## High-Level Synthesis (HLS) Tools
 
