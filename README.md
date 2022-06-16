@@ -224,6 +224,13 @@ These tools generate RTL for generic IPs described using high-level languages (e
  
     *Website*: https://www.nec.com/en/global/prod/cwb/index.html
  
+ 
+ - ***DWARV***
+ 
+    *Year*: 2012
+ 
+    *Paper*: R. Nane, V. Sima, B. Olivier, R. Meeuws, Y. Yankova, and K. Bertels. 2012. DWARV 2.0: A CoSy-based C-to-VHDL hardware compiler. In Field Programmable Logic and Applications (FPL), 2012 22nd International Conference on. IEEE, 619–622. https://doi.org/10.1109/FPL.2012.6339221
+
 
  - ***Dynamatic***
  
@@ -274,6 +281,15 @@ These tools generate RTL for generic IPs described using high-level languages (e
     *Documentation*: https://www.intel.com/content/www/us/en/docs/programmable/683349/22-1/pro-edition-reference-manual.html
 
     *Website*: https://www.intel.it/content/www/it/it/software/programmable/quartus-prime/hls-compiler.html
+
+
+- ***Kiwi***
+ 
+    *Year*: 2008
+ 
+    *Paper*: S. Singh and D. J. Greaves. 2008. Kiwi: Synthesis of FPGA circuits from parallel programs. In 2008 16th International Symposium on Field-Programmable Custom Computing Machines. IEEE, 3–12. https://doi.org/10.1109/FCCM.2008.46
+
+    *Website*: https://www.cl.cam.ac.uk/~djg11/kiwi/
 
 
 - ***LegUp***
@@ -492,6 +508,17 @@ DSLs concentrating on a given application domain (e.g., image processing and pac
     *Paper*: J. S. da Silva, F. Boyer, and J. M. P. Langlois. 2018. P4-compatible high-level synthesis of low latency 100 Gb/s streaming packet parsers in FPGAs. In Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays. 147–152. https://doi.org/10.1145/3174243.3174270
 
     *Repository*: https://github.com/engjefersonsantiago/P4HLS
+
+
+- ***PolyMage***
+ 
+    *Year*: 2016
+ 
+    *Paper*: N. Chugh, V. Vasista, S. Purini, and U. Bondhugula. 2016. A DSL compiler for accelerating image processing pipelines on FPGAs. In Proceedings of the 2016 International Conference on Parallel Architectures and Compilation. 327–338. https://doi.org/10.1145/2967938.2967969
+
+    *Repository*: https://bitbucket.org/udayb/polymage/src/master/
+
+    *Website*: http://mcl.csa.iisc.ernet.in/polymage.html
 
 
 - ***Rigel***
