@@ -84,6 +84,17 @@ HDLs embedding the characteristics of the imperative languages from which they d
   *Paper*: S. Sato and K. Kise. 2013. ArchHDL: a new hardware description language for high-speed architectural evaluation. In 2013 IEEE 7th International Symposium on Embedded Multicore Socs. IEEE, 107–112. https://doi.org/10.1109/MCSoC.2013.38
 
 
+- ***HDLRuby***
+ 
+  *Year*: 2018
+  
+  *Paper*: L. Gauthier and Y. Ishikawa, "HDLRuby, a new high productivity hardware description language," 2018 5th International Conference on Business and Industrial Research (ICBIR), 2018, pp. 215-220, doi: https://doi.org/10.1109/ICBIR.2018.8391195.
+  
+  *Repository*: https://github.com/civol/HDLRuby
+  
+  *Website*: https://rubygems.org/gems/HDLRuby/versions/2.5.0
+
+
 - ***Just Another HDL (JHDL)***
  
   *Year*: 1998
